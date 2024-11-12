@@ -99,6 +99,7 @@ function App() {
                 beautiful and functional.
               </p>
               <p className="text-md mt-10">scroll</p>
+              <p className="text-md mt-10">click on the thirty six studios</p>
             </div>
           </div>
           <div className="w-full absolute bottom-0 left-0">
